@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amirjadhav
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jadhav.amir100@gmail.com or https://www.linkedin.com/in/amirjadhav
 
